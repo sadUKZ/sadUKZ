@@ -1,7 +1,17 @@
 
-Hi I'm sadUKZ 👋
+Hi I'm sadUKZ 
 
-![image](https://user-images.githubusercontent.com/85388567/120885116-41493000-c5b5-11eb-9514-8c714d935be3.png)
-![image](https://user-images.githubusercontent.com/85388567/120885135-56be5a00-c5b5-11eb-8e8d-4f1ef6680c6a.png)
+<div>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=dark">
+</div>
+  
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="sadJS" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=dark">
+</div>
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadUKZ&show_icons=true&theme=dark&locale=en)
+<div>
+  <a href="https://github.com/sadUKZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadUKZ&show_icons=true&theme=dracula&locale=en">
+</div>
